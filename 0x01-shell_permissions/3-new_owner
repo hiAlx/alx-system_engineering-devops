@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -c betty hello echo "betty"
+chown -c betty hello echo "$(whoami)"
